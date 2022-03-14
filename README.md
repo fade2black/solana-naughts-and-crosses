@@ -26,7 +26,7 @@ keypair_1_path: /Users/mymac/.config/solana/player_1_id.json
 keypair_2_path: /Users/mymac/.config/solana/player_2_id.json
 ...
 ```
-## Building and deploying the Solana programm
+## Building and deploying the Solana program
 To build and deploy the Solana program in this repository to the Solana cluster
 
 ```
